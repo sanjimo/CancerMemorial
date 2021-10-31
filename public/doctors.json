@@ -1,0 +1,13 @@
+[
+    {"id":"d1","name":"Omar Abdel-Wahab, MD","title":"Director, CM Center for Hematologic Malignancies","phone":"646-888-3487","expertise":" Leukemia; Myeloid Malignancies.","img":"https://i.ibb.co/12b0K2X/abdel-wahab-omar.jpg"},
+
+    {"id":"d2","name":"Wassim Abida, MD, PhD","title":"MEDICAL ONCOLOGIST","phone":"646-422-4633","expertise":"Prostate cancer; Clinical trials","img":"https://i.ibb.co/rv6jBC3/abida.jpg"},
+
+    {"id":"d3","name":"Linda R. Aboody, MD","title":"Director of Radiology, Basking Ridge","phone":"908-542-3200","expertise":"Breast Imaging & Interventions","img":"https://i.ibb.co/VwnSPbZ/aboody.jpg"},
+
+    {"id":"d4","name":"Ghassan K. Abou-Alfa, MD","title":"MEDICAL ONCOLOGIST","phone":" 646-888-4184","expertise":"Gastrointestinal Oncology; Pancreas, Gallbladder, and Bile Duct Tumors; Primary Liver Cancer","img":"https://i.ibb.co/yYXJXXD/abou.jpg"},
+
+    {"id":"d5","name":"David H. Abramson, MD","title":"Chief, Ophthalmic Oncology Service, Department of Surgery","phone":"212-639-7232","expertise":"Retinoblastoma; Ocular Melanomas.","img":"https://i.ibb.co/Qbw1cQ5/abramson.jpg"},
+
+    {"id":"d6","name":"Nadeem R. Abu-Rustum, MD, FACOG","title":"Chief, Gynecology Service","phone":"212-639-7051","expertise":"Gynecologic Oncology; Cancers and Tumors of the Cervix, Uterus, Ovary, Vulva, and Vagina","img":"https://i.ibb.co/Tv3LzDy/abu.jpg"}
+]
